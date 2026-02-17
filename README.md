@@ -34,7 +34,7 @@ python main.py
 ==================================================
 
 Структура проекта
-email-parser-pro/
+email.txt-pars
 │
 ├── main.py              # Главный файл с меню
 ├── CheckMail.py         # Логика обработки email
