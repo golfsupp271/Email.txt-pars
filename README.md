@@ -51,6 +51,7 @@ Orange.fr, Free.fr (Франция)
 Libero.it (Италия)
 O2.pl, WP.pl (Польша)
 Bluewin.ch (Швейцария)
+и многие другие.
 
 Азиатские:
 Naver.com, Daum.net (Корея)
